@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_display",
+    "children" : [ {
+      "name" : "Test_allure.test_01",
+      "uid" : "e20b46b2eae894a2",
+      "parentUid" : "8b36fcb6257705a4003140ae801c369a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1528277107665,
+        "stop" : 1528277107676,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_allure.test_02",
+      "uid" : "461e4630889edf54",
+      "parentUid" : "8b36fcb6257705a4003140ae801c369a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1528277107678,
+        "stop" : 1528277107679,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8b36fcb6257705a4003140ae801c369a"
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-92JUD8V",
+    "children" : [ {
+      "name" : "20084-MainThread",
+      "children" : [ {
+        "name" : "Test_allure.test_02",
+        "uid" : "461e4630889edf54",
+        "parentUid" : "9aa7455b8432c247e917eac2827bac86",
+        "status" : "passed",
+        "time" : {
+          "start" : 1528277107678,
+          "stop" : 1528277107679,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_allure.test_01",
+        "uid" : "e20b46b2eae894a2",
+        "parentUid" : "9aa7455b8432c247e917eac2827bac86",
+        "status" : "passed",
+        "time" : {
+          "start" : 1528277107665,
+          "stop" : 1528277107676,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9aa7455b8432c247e917eac2827bac86"
+    } ],
+    "uid" : "cffab8c503507e830cb41faaff82df5c"
+  } ]
+}
